@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texts lang="Polish">
+    <p id="portfolio-title">VSO-plxe | Portfolio</p>
+    <p id="header-desc">Moje projekty i eksperymenty. Zobacz mój profil na <a href="https://github.com/VSO-plxe" target="_blank">GitHub</a>.</p>
+    <p id="repo-title">Moje Repozytoria</p>
+    <p id="loading-text">Ładowanie projektów z GitHub API...</p>
+    <p id="footer-text">Copyright © 2025 VSO-plxe. Wszelkie prawa zastrzeżone.</p>
+    <p id="repo-no-desc">Brak opisu.</p>
+    <p id="repo-unknown-lang">Nieznany</p>
+    <p id="fetch-error">Nie udało się załadować projektów. Spróbuj odświeżyć stronę.</p>
+    <p id="profile-followers">obserwujących</p>
+    <p id="profile-following">obserwowanych</p>
+    <p id="filter-all">Wszystkie</p>
+    <p id="filter-none">Brak projektów spełniających kryteria.</p>
+    <p id="toggle-theme-label">Zmień motyw jasny/ciemny</p>
+    <p id="search-placeholder">Szukaj w repozytoriach...</p>
+    <p id="modal-close-label">Zamknij okno</p>
+    <p id="readme-loading">Ładowanie README...</p>
+    <p id="readme-error">Nie udało się wczytać pliku README. Prawdopodobnie nie istnieje w tym repozytorium.</p>
+</texts>

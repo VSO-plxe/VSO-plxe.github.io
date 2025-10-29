@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texts lang="Deutsch">
+    <p id="portfolio-title">VSO-plxe | Portfolio</p>
+    <p id="header-desc">Meine Projekte und Experimente. Sehen Sie mein Profil auf <a href="https://github.com/VSO-plxe" target="_blank">GitHub</a>.</p>
+    <p id="repo-title">Meine Repositories</p>
+    <p id="loading-text">Lade Projekte von der GitHub API...</p>
+    <p id="footer-text">Copyright © 2025 VSO-plxe. Alle Rechte vorbehalten.</p>
+    <p id="repo-no-desc">Keine Beschreibung vorhanden.</p>
+    <p id="repo-unknown-lang">Unbekannt</p>
+    <p id="fetch-error">Projekte konnten nicht geladen werden. Bitte versuchen Sie, die Seite zu aktualisieren.</p>
+    <p id="profile-followers">Follower</p>
+    <p id="profile-following">Folge ich</p>
+    <p id="filter-all">Alle</p>
+    <p id="filter-none">Keine Projekte entsprechen den Kriterien.</p>
+    <p id="toggle-theme-label">Wechseln Sie zwischen hellem/dunklem Thema</p>
+    <p id="search-placeholder">Repositories durchsuchen...</p>
+    <p id="modal-close-label">Modal schließen</p>
+    <p id="readme-loading">Lade README...</p>
+    <p id="readme-error">README-Datei konnte nicht geladen werden. Sie existiert wahrscheinlich nicht in diesem Repository.</p>
+</texts>

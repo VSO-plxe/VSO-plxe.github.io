@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texts lang="Русский">
+    <p id="portfolio-title">VSO-plxe | Портфолио</p>
+    <p id="header-desc">Мои проекты и эксперименты. Смотрите мой профиль на <a href="https://github.com/VSO-plxe" target="_blank">GitHub</a>.</p>
+    <p id="repo-title">Мои репозитории</p>
+    <p id="loading-text">Загрузка проектов из GitHub API...</p>
+    <p id="footer-text">Copyright © 2025 VSO-plxe. Все права защищены.</p>
+    <p id="repo-no-desc">Описание отсутствует.</p>
+    <p id="repo-unknown-lang">Неизвестный</p>
+    <p id="fetch-error">Не удалось загрузить проекты. Пожалуйста, попробуйте обновить страницу.</p>
+    <p id="profile-followers">подписчиков</p>
+    <p id="profile-following">подписок</p>
+    <p id="filter-all">Все</p>
+    <p id="filter-none">Нет проектов, соответствующих критериям.</p>
+    <p id="toggle-theme-label">Переключить светлую/темную тему</p>
+    <p id="search-placeholder">Поиск по репозиториям...</p>
+    <p id="modal-close-label">Закрыть окно</p>
+    <p id="readme-loading">Загрузка README...</p>
+    <p id="readme-error">Не удалось загрузить файл README. Возможно, он не существует в этом репозитории.</p>
+</texts>
